@@ -1,5 +1,24 @@
 # Pisomka z informatiky spolu s cviceniami
 
+- [Premenne](#premenne)
+- [Nacitanie vstupu](#nacitanie-vstupu)
+- [Vypis vystupu](#vypis-vystupu)
+- [Typy premennych](#typy-premennych)
+- [Podmienky](#podmienky)
+- [Porovnania pre podmienky if](#porovnania-pre-podmienky-if)
+- [Boolean algebra](#boolean-algebra)
+  - [Negacia](#negacia)
+  - [And (Konjukcia)](#and--konjukcia-)
+  - [Or (Disjunkcia)](#or--disjunkcia-)
+- [Cykly](#cykly)
+  - [While](#while)
+- [Praca s typom pole](#praca-s-typom-pole)
+  - [Pridavanie prvkov pola na jeho koniec](#pridavanie-prvkov-pola-na-jeho-koniec)
+  - [Citanie z pola](#citanie-z-pola)
+- [Funkcie](#funkcie)
+- [Pomocne funkcie](#pomocne-funkcie)
+- [Kniznica random](#kniznica-random)
+
 ### Premenne
 
 Premenna uklada hodnotu do RAM pamate pre neskorsie pouzitie v programe. Pri skonceni programu sa RAM pamet vymaze.
