@@ -1,4 +1,5 @@
-#Vstupuju vety, kym nevstupi veta práznda.Vypiste vietky vety, ktoré sa zacinaju na pismeno, ktorym sa zacina predposledna veta
+#  Vstupuju vety, kym nevstupi veta práznda.Vypiste vietky vety,
+#  ktoré sa zacinaju na pismeno, ktorym sa zacina predposledna veta
 
 vety=[]
 while True:

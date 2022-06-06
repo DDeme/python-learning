@@ -1,4 +1,6 @@
-# 
+# 1.vstupuju cisla kym nevstupi 0, 
+# zisti pocet cifier posledneho cisla a vytlacte vsetky cisla, 
+# ktore maju rovnaky pocet cifier
 
 cisla=[]
 while True:

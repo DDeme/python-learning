@@ -1,3 +1,7 @@
+# 2. pocitac generuje 100 cisel (200,800), 
+# ak je ciferny sucet posledneho cisla parny, 
+# vypiste cisla na 0. a 2. mieste, ak nie je parny tak na 1. a 3. mieste
+
 import random
 cisla=[]
 for i in range(100):
